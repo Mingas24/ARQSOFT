@@ -1,0 +1,77 @@
+type Query{
+    getCostumerByEmail(email: String): CostumerDTOOutput
+}
+type Mutation{
+    createAuthenticationToken(authenticationRequest: AuthRequest!): AuthResponse
+    postManager(managerDTO: ManagerDTO!): ManagerDTOOutput
+    changeManagerShop(managerId: Float!, shopId: Float!): ManagerDTOOutput
+    # postCostumer(costumerDTO: CostumerDTO!): CostumerDTOOutput
+    editCostumer(costumerId: Float!, costumerDTO: EditCostumerDTO!): CostumerDTOOutput
+}
+
+
+input AuthRequest{
+    username: String!
+    password: String!
+}
+
+type AuthResponse{
+    token: String!
+    user: UserDTO!
+}
+
+type UserDTO{
+    name: String
+    email: String
+    username: String
+    password: String
+    role: String
+}
+
+input ManagerDTO{
+    name: String!
+    email: String!
+    username: String!
+    password: String!
+    role: String!
+    shopId: Float!
+}
+
+type ManagerDTOOutput{
+     name: String
+     email: String
+     username: String
+     password: String
+     role: String
+     shopId: Float
+}
+
+input CostumerDTO{
+    name: String!
+    email: String!
+    username: String!
+    password: String!
+    role: String!
+    costumerNIF: String!
+    address: String!
+}
+
+type CostumerDTOOutput{
+     name: String
+     email: String
+     username: String
+     password: String
+     role: String
+     costumerNIF: String
+     address: String
+}
+
+input EditCostumerDTO{
+    name: String
+    email: String
+    username: String
+    password: String
+    role: String
+    costumerNIF: String
+    address: String
+}

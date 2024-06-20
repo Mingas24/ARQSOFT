@@ -1,0 +1,183 @@
+<?xml version="1.0" ?>
+<ns3:report xmlns:ns3="http://www.hello2morrow.com/sonargraph/core/report" xmlns:ns2="http://www.hello2morrow.com/sonargraph/core/export" id="_0" systemId="dc595b1e0181948912611fcbb29403e6" name="sandwichManager" version="12.4.1.769" systemPath="D:\Users\Daniel Ferreira\Faculdade\MESTRADO\2º ANO\1º SEMESTRE\ARQSOFT\PROJETO\IT1\part 1\projects\arqsoft-22-23\SandwichManagerCore\sandwichManager.sonargraph" timestamp="2022-11-11T00:40:47.470Z" currentVirtualModel="Modifiable.vm" systemDescription="" analyzerExecutionLevel="full">
+	<reportContextInfo></reportContextInfo>
+	<description></description>
+	<metaData>
+		<issueProviders></issueProviders>
+		<issueCategories>
+			<category id="_37" name="ArchitecturalView" presentationName="Architectural View"></category>
+			<category id="_38" name="ArchitectureConsistency" presentationName="Architecture Consistency"></category>
+			<category id="_39" name="ArchitectureDefinition" presentationName="Architecture Definition"></category>
+			<category id="_3a" name="ArchitectureViolation" presentationName="Architecture Violation"></category>
+			<category id="_3b" name="CycleGroup" presentationName="Cycle Group"></category>
+			<category id="_3c" name="DuplicateCode" presentationName="Duplicate Code"></category>
+			<category id="_3d" name="InstallationConfiguration" presentationName="Installation Configuration"></category>
+			<category id="_3e" name="PluginBased" presentationName="Plugin Based"></category>
+			<category id="_3f" name="QualityGate" presentationName="Quality Gate"></category>
+			<category id="_40" name="Refactoring" presentationName="Refactoring"></category>
+			<category id="_41" name="ScriptBased" presentationName="Script Based"></category>
+			<category id="_42" name="ScriptDefinition" presentationName="Script Definition"></category>
+			<category id="_43" name="SystemConfiguration" presentationName="System Configuration"></category>
+			<category id="_44" name="ThresholdViolation" presentationName="Threshold Violation"></category>
+			<category id="_45" name="Todo" presentationName="Todo"></category>
+			<category id="_46" name="Workspace" presentationName="Workspace"></category>
+		</issueCategories>
+		<issueTypes></issueTypes>
+		<metricProviders>
+			<provider id="_4a" name="Core" presentationName="Core"></provider>
+		</metricProviders>
+		<metricCategories>
+			<category id="_48" name="Size" presentationName="Size" orderNumber="5"></category>
+		</metricCategories>
+		<metricLevels>
+			<level id="_49" name="Module" presentationName="Module" orderNumber="10"></level>
+		</metricLevels>
+		<metricIds>
+			<metricId id="_47" name="CoreCodeCommentLines" presentationName="Code Comment Lines" description="Counts all comment lines excluding header comments and blank comment lines. This includes code of fully analyzed and issue ignoring code." categories="_48" provider="_4a" isFloat="false" levels="_49" bestValue="NaN" worstValue="NaN" minValue="0.0" maxValue="INF" direction="Indifferent"></metricId>
+			<metricId id="_4b" name="CoreCommentLines" presentationName="Comment Lines" description="Counts all comment lines excluding blank comment lines. This includes fully analyzed and issue ignoring code." categories="_48" provider="_4a" isFloat="false" levels="_49" bestValue="NaN" worstValue="NaN" minValue="0.0" maxValue="INF" direction="Indifferent"></metricId>
+			<metricId id="_4c" name="CoreLinesOfCode" presentationName="Lines of Code" description="Lines of code excluding blank and comment lines. This includes fully analyzed and issue ignoring code." categories="_48" provider="_4a" isFloat="false" levels="_49" bestValue="NaN" worstValue="NaN" minValue="0.0" maxValue="INF" direction="Indifferent"></metricId>
+			<metricId id="_4d" name="CoreStatements" presentationName="Number of Statements" description="Counts all statements. This includes statements of fully analyzed and issue ignoring code." categories="_48" provider="_4a" isFloat="false" levels="_49" bestValue="NaN" worstValue="NaN" minValue="0.0" maxValue="INF" direction="Indifferent"></metricId>
+			<metricId id="_4e" name="CoreSourceElementCount" presentationName="Source Element Count" description="Number of programming elements (i.e. types, fields, methods, functions, ...) plus number of statements. This includes elements of fully analyzed and issue ignoring code." categories="_48" provider="_4a" isFloat="false" levels="_49" bestValue="NaN" worstValue="NaN" minValue="0.0" maxValue="INF" direction="Indifferent"></metricId>
+			<metricId id="_4f" name="CoreTotalLines" presentationName="Total Lines" description="Counts all lines including empty and comment lines of source files. This includes files of fully analyzed and issue ignoring code." categories="_48" provider="_4a" isFloat="false" levels="_49" bestValue="NaN" worstValue="NaN" minValue="0.0" maxValue="INF" direction="Indifferent"></metricId>
+		</metricIds>
+	</metaData>
+	<features>
+		<feature name="Architecture" presentationName="Architecture" licensed="true"></feature>
+		<feature name="CohesionAndCouplingMetrics" presentationName="Cohesion And Coupling Metrics" licensed="true"></feature>
+		<feature name="CycleBreakUp" presentationName="Cycle Break Up" licensed="true"></feature>
+		<feature name="DuplicateCode" presentationName="Duplicate Code" licensed="true"></feature>
+		<feature name="Platform" presentationName="Platform" licensed="true"></feature>
+		<feature name="Plugins" presentationName="Plugins" licensed="true"></feature>
+		<feature name="Reporting" presentationName="Reporting" licensed="true"></feature>
+		<feature name="Scripts" presentationName="Scripts" licensed="true"></feature>
+		<feature name="ScriptsAutomated" presentationName="Scripts Automated" licensed="true"></feature>
+		<feature name="Snapshots" presentationName="Snapshots" licensed="true"></feature>
+		<feature name="Systems" presentationName="Systems" licensed="true"></feature>
+		<feature name="VirtualModels" presentationName="Virtual Models" licensed="true"></feature>
+	</features>
+	<analyzers>
+		<analyzer description="Checks for architecture violations" licensed="true" executionLevel="minimal" executed="true" id="_1" name="ArchitectureCheck" presentationName="Architecture Check"></analyzer>
+		<analyzer description="Computes metrics related to source code and architecture violations" licensed="true" executionLevel="basic" executed="true" id="_5" name="ArchitectureSourcecodeMetrics" presentationName="Architecture Metrics"></analyzer>
+		<analyzer description="Calculates average complexity metrics" licensed="true" executionLevel="basic" executed="true" id="_6" name="AverageComplexityMetrics" presentationName="Average Complexity Metrics"></analyzer>
+		<analyzer description="Checks for code in large files" licensed="true" executionLevel="minimal" executed="true" id="_2" name="CodeOrganization" presentationName="Code Organization"></analyzer>
+		<analyzer description="Calculates cohesion and coupling metrics on module level" licensed="true" executionLevel="basic" executed="true" id="_7" name="CohesionAndCouplingMetricsModule" presentationName="Cohesion and Coupling Metrics (Module)"></analyzer>
+		<analyzer description="Calculates cohesion and coupling metrics on system level" licensed="true" executionLevel="basic" executed="true" id="_8" name="CohesionAndCouplingMetricsSystem" presentationName="Cohesion and Coupling Metrics (System)"></analyzer>
+		<analyzer description="Calculates system complexity metrics" licensed="true" executionLevel="basic" executed="true" id="_9" name="ComplexitySystemMetrics" presentationName="System Complexity Metrics"></analyzer>
+		<analyzer description="Analyzes component / compilation unit cycles on module level" licensed="true" executionLevel="advanced" executed="true" id="_25" name="ComponentCyclesModule" presentationName="Component Cycles (Module)"></analyzer>
+		<analyzer description="Computes component cycle metrics on module level" licensed="true" executionLevel="advanced" executed="true" id="_26" name="ComponentCyclesModuleMetrics" presentationName="Component Cycle Metrics (Module)"></analyzer>
+		<analyzer description="Analyzes component / compilation unit cycles on system level" licensed="true" executionLevel="advanced" executed="true" id="_27" name="ComponentCyclesSystem" presentationName="Component Cycles (System)"></analyzer>
+		<analyzer description="Computes component cycle metrics on system level" licensed="true" executionLevel="advanced" executed="true" id="_28" name="ComponentCyclesSystemMetrics" presentationName="Component Cycle Metrics (System)"></analyzer>
+		<analyzer description="Analyzes directory cycles on module level" licensed="true" executionLevel="basic" executed="false" id="_a" name="CppDirectoryCyclesModule" presentationName="C/C++ Directory Cycles (Module)"></analyzer>
+		<analyzer description="Computes directory cycle metrics on module level" licensed="true" executionLevel="basic" executed="false" id="_b" name="CppDirectoryCyclesModuleMetrics" presentationName="C/C++ Directory Cycle Metrics (Module)"></analyzer>
+		<analyzer description="Analyzes directory cycles on system level" licensed="true" executionLevel="basic" executed="false" id="_c" name="CppDirectoryCyclesSystem" presentationName="C/C++ Directory Cycles (System)"></analyzer>
+		<analyzer description="Computes directory cycle metrics on system level" licensed="true" executionLevel="basic" executed="false" id="_d" name="CppDirectoryCyclesSystemMetrics" presentationName="C/C++ Directory Cycle Metrics (System)"></analyzer>
+		<analyzer description="Analyzes namespace cycles on module level" licensed="true" executionLevel="basic" executed="false" id="_e" name="CppNamespaceCyclesModule" presentationName="C++ Namespace Cycles (Module)"></analyzer>
+		<analyzer description="Computes namespace cycle metrics on module level" licensed="true" executionLevel="basic" executed="false" id="_f" name="CppNamespaceCyclesModuleMetrics" presentationName="C++ Namespace Cycle Metrics (Module)"></analyzer>
+		<analyzer description="Analyzes namespace cycles on system level" licensed="true" executionLevel="basic" executed="false" id="_10" name="CppNamespaceCyclesSystem" presentationName="C++ Namespace Cycles (System)"></analyzer>
+		<analyzer description="Computes namespace cycle metrics on system level" licensed="true" executionLevel="basic" executed="false" id="_11" name="CppNamespaceCyclesSystemMetrics" presentationName="C++ Namespace Cycle Metrics (System)"></analyzer>
+		<analyzer description="Analyzes directory cycles on module level" licensed="true" executionLevel="basic" executed="false" id="_12" name="CsDirectoryCyclesModule" presentationName="C# Directory Cycles (Module)"></analyzer>
+		<analyzer description="Computes directory cycle metrics on module level" licensed="true" executionLevel="basic" executed="false" id="_13" name="CsDirectoryCyclesModuleMetrics" presentationName="C# Directory Cycle Metrics (Module)"></analyzer>
+		<analyzer description="Analyzes directory cycles on system level" licensed="true" executionLevel="basic" executed="false" id="_14" name="CsDirectoryCyclesSystem" presentationName="C# Directory Cycles (System)"></analyzer>
+		<analyzer description="Computes directory cycle metrics on system level" licensed="true" executionLevel="basic" executed="false" id="_15" name="CsDirectoryCyclesSystemMetrics" presentationName="C# Directory Cycle Metrics (System)"></analyzer>
+		<analyzer description="Search duplicate code on system level" licensed="true" executionLevel="full" executed="true" id="_2f" name="DuplicateCode" presentationName="Duplicate Code"></analyzer>
+		<analyzer description="Calculates duplicate code metrics" licensed="true" executionLevel="full" executed="true" id="_30" name="DuplicateCodeMetrics" presentationName="Duplicate Code Metrics"></analyzer>
+		<analyzer description="Calculates summary metrics about entangled code" licensed="true" executionLevel="advanced" executed="true" id="_29" name="Entanglement" presentationName="Entanglement"></analyzer>
+		<analyzer description="Calculates incoming dependency metrics on module level" licensed="true" executionLevel="advanced" executed="true" id="_2a" name="IncomingDependencyMetricsModule" presentationName="Incoming Dependency Metrics (Module)"></analyzer>
+		<analyzer description="Calculates incoming dependency metrics on system level" licensed="true" executionLevel="advanced" executed="true" id="_2b" name="IncomingDependencyMetricsSystem" presentationName="Incoming Dependency Metrics (System)"></analyzer>
+		<analyzer description="Calculates issue density per 1000 source elements" licensed="true" executionLevel="full" executed="true" id="_31" name="IssueDensity" presentationName="Issue Density"></analyzer>
+		<analyzer description="Computes urgency and importance of issues and ranks them globally" licensed="true" executionLevel="full" executed="true" id="_32" name="IssueRanking" presentationName="Issue Ranking"></analyzer>
+		<analyzer description="Computes Java visibility metrics" licensed="true" executionLevel="basic" executed="true" id="_16" name="JavaVisibilityMetrics" presentationName="Java Visibility Metrics"></analyzer>
+		<analyzer description="Calculates maintainability level metrics" licensed="true" executionLevel="advanced" executed="true" id="_2c" name="MaintainabilityLevel" presentationName="Maintainability Level"></analyzer>
+		<analyzer description="Checks for metric threshold violations" licensed="true" executionLevel="minimal" executed="true" id="_3" name="MetricThresholds" presentationName="Metric Thresholds"></analyzer>
+		<analyzer description="Analyzes module cycles on system level" licensed="true" executionLevel="basic" executed="true" id="_17" name="ModuleCyclesSystem" presentationName="Module Cycles"></analyzer>
+		<analyzer description="Analyzes namespace cycles on module level" licensed="true" executionLevel="basic" executed="false" id="_18" name="NamespaceCyclesModule" presentationName="C# Namespace Cycles (Module)"></analyzer>
+		<analyzer description="Computes namespace cycle metrics on module level" licensed="true" executionLevel="basic" executed="false" id="_19" name="NamespaceCyclesModuleMetrics" presentationName="C# Namespace Cycle Metrics (Module)"></analyzer>
+		<analyzer description="Analyzes namespace cycles on system level" licensed="true" executionLevel="basic" executed="false" id="_1a" name="NamespaceCyclesSystem" presentationName="C# Namespace Cycles (System)"></analyzer>
+		<analyzer description="Computes namespace cycle metrics on system level" licensed="true" executionLevel="basic" executed="false" id="_1b" name="NamespaceCyclesSystemMetrics" presentationName="C# Namespace Cycle Metrics (System)"></analyzer>
+		<analyzer description="Calculates outgoing dependency metrics on module level" licensed="true" executionLevel="advanced" executed="true" id="_2d" name="OutgoingDependencyMetricsModule" presentationName="Ougoing Dependency Metrics (Module)"></analyzer>
+		<analyzer description="Calculates outgoing dependency metrics on system level" licensed="true" executionLevel="advanced" executed="true" id="_2e" name="OutgoingDependencyMetricsSystem" presentationName="Ougoing Dependency Metrics (System)"></analyzer>
+		<analyzer description="Analyzes package cycles on module level" licensed="true" executionLevel="basic" executed="true" id="_1c" name="PackageCyclesModule" presentationName="Package Cycles (Module)"></analyzer>
+		<analyzer description="Computes package cycle metrcis on module level" licensed="true" executionLevel="basic" executed="true" id="_1d" name="PackageCyclesModuleMetrics" presentationName="Package Cycle Metrics (Module)"></analyzer>
+		<analyzer description="Analyzes package cycles on system level" licensed="true" executionLevel="basic" executed="true" id="_1e" name="PackageCyclesSystem" presentationName="Package Cycles (System)"></analyzer>
+		<analyzer description="Computes package cycle metrcis on system level" licensed="true" executionLevel="basic" executed="true" id="_1f" name="PackageCyclesSystemMetrics" presentationName="Package Cycle Metrics (System)"></analyzer>
+		<analyzer description="Analyzes package cycles on module level" licensed="true" executionLevel="basic" executed="false" id="_20" name="PythonPackageCyclesModule" presentationName="Python Package Cycles (Module)"></analyzer>
+		<analyzer description="Computes package cycle metrcis on module level" licensed="true" executionLevel="basic" executed="false" id="_21" name="PythonPackageCyclesModuleMetrics" presentationName="Python Package Cycle Metrics (Module)"></analyzer>
+		<analyzer description="Analyzes package cycles on system level" licensed="true" executionLevel="basic" executed="false" id="_22" name="PythonPackageCyclesSystem" presentationName="Python Package Cycles (System)"></analyzer>
+		<analyzer description="Computes package cycle metrcis on system level" licensed="true" executionLevel="basic" executed="false" id="_23" name="PythonPackageCyclesSystemMetrics" presentationName="Python Package Cycle Metrics (System)"></analyzer>
+		<analyzer description="Checks compliance against defined quality gates" licensed="true" executionLevel="full" executed="true" id="_33" name="QualityGates" presentationName="Quality Gate"></analyzer>
+		<analyzer description="Calculates source code management based metrics" licensed="true" executionLevel="full" executed="true" id="_34" name="ScmMetrics" presentationName="SCM Metrics"></analyzer>
+		<analyzer description="Runs scripts configured for automated execution" licensed="true" executionLevel="full" executed="true" id="_35" name="ScriptRunner" presentationName="Script Runner"></analyzer>
+		<analyzer description="Calculates size metrics" licensed="true" executionLevel="minimal" executed="true" id="_4" name="SizeMetrics" presentationName="Size Metrics"></analyzer>
+		<analyzer description="Calculates summary metrics about entangled code" licensed="true" executionLevel="basic" executed="true" id="_24" name="StructureMetrics" presentationName="Structure Metrics (Namespace/Directory)"></analyzer>
+		<analyzer description="Computes the system diff against a baseline" licensed="true" executionLevel="full" executed="true" id="_36" name="SystemDiff" presentationName="System Diff"></analyzer>
+	</analyzers>
+	<plugins></plugins>
+	<duplicateCodeConfiguration>
+		<entry>MinimalLineLength:3</entry>
+		<entry>MinimalBlockLength:25</entry>
+		<entry>MaximalNumberOfCopies:100</entry>
+		<entry>MaximalTolerancePerEdit:3</entry>
+		<entry>MaximalRelativeTolerancePercentage:35</entry>
+	</duplicateCodeConfiguration>
+	<cycleGroupAnalyzerConfiguration analyzer="_17" name="ModuleCyclesSystem">
+		<intEntry name="CriticalModuleCycleSize" value="2"></intEntry>
+	</cycleGroupAnalyzerConfiguration>
+	<cycleGroupAnalyzerConfiguration analyzer="_25" name="ComponentCyclesModule">
+		<intEntry name="CriticalComponentCycleSize" value="6"></intEntry>
+	</cycleGroupAnalyzerConfiguration>
+	<cycleGroupAnalyzerConfiguration analyzer="_27" name="ComponentCyclesSystem">
+		<intEntry name="CriticalComponentCycleSize" value="6"></intEntry>
+	</cycleGroupAnalyzerConfiguration>
+	<cycleGroupAnalyzerConfiguration analyzer="_1e" name="PackageCyclesSystem">
+		<intEntry name="CriticalNamespaceCycleSize" value="6"></intEntry>
+	</cycleGroupAnalyzerConfiguration>
+	<cycleGroupAnalyzerConfiguration analyzer="_1c" name="PackageCyclesModule">
+		<intEntry name="CriticalNamespaceCycleSize" value="6"></intEntry>
+	</cycleGroupAnalyzerConfiguration>
+	<qualityGateConfiguration></qualityGateConfiguration>
+	<elementKinds>
+		<elementKind id="_58" standardKind="JavaExternal" presentationKind="Java External" imageResourceName="External"></elementKind>
+		<elementKind id="_56" standardKind="JavaClassRootDirectoryPath" presentationKind="Java Class Root Directory/Archive" imageResourceName="RootDirectoryPath"></elementKind>
+		<elementKind id="_5a" standardKind="SoftwareSystem" presentationKind="System"></elementKind>
+		<elementKind id="_53" standardKind="JavaSourceRootDirectoryPath" presentationKind="Java Source Root Directory/Archive"></elementKind>
+		<elementKind id="_51" standardKind="JavaModule" presentationKind="Java Module" imageResourceName="Module"></elementKind>
+	</elementKinds>
+	<workspace>
+		<workspaceFilter description="Exclude files (matches against the 'Identifying Path' property)" information="" numberOfExcludedElements="0"></workspaceFilter>
+		<productionCodeFilter description="Exclude internal components containing test code (matches against the 'Workspace Filter Name' property)" information="" numberOfExcludedElements="-1" numberOfIncludedElements="-1"></productionCodeFilter>
+		<issueFilter description="Ignore analysis issues of internal components containing legacy/generated code (matches against the 'Workspace Filter Name' property)" information="" numberOfExcludedElements="-1" numberOfIncludedElements="-1"></issueFilter>
+		<module moduleId="d7b61067e2641d851b794b8619b4fdf5" language="Java" description="" kind="_51" fqName="Workspace:SandwichManager" id="_50" name="SandwichManager" presentationName="SandwichManager">
+			<rootDirectory kind="_53" fqName="Workspace:SandwichManager:./src/main/java" id="_52" name="./src/main/java" presentationName="./src/main/java"></rootDirectory>
+			<rootDirectory kind="_53" fqName="Workspace:SandwichManager:./target/generated-sources/annotations" id="_54" name="./target/generated-sources/annotations" presentationName="./target/generated-sources/annotations"></rootDirectory>
+			<rootDirectory kind="_56" fqName="Workspace:SandwichManager:Class|./target/classes" id="_55" name="Class|./target/classes" presentationName="./target/classes"></rootDirectory>
+		</module>
+		<external language="Java" description="Contains external Java elements" kind="_58" fqName="Workspace:External [Java]" id="_57" name="External [Java]" presentationName="External [Java]"></external>
+	</workspace>
+	<systemElements ref="_0">
+		<element kind="_5a" fqName="sandwichManager" id="_59" name="sandwichManager" presentationName="sandwichManager"></element>
+	</systemElements>
+	<moduleElements ref="_50"></moduleElements>
+	<systemMetricValues elementRef="_0"></systemMetricValues>
+	<moduleMetricValues elementRef="_50">
+		<levelValues levelRef="_49">
+			<metric ref="_47">
+				<int ref="_50">0</int>
+			</metric>
+			<metric ref="_4b">
+				<int ref="_50">0</int>
+			</metric>
+			<metric ref="_4c">
+				<int ref="_50">0</int>
+			</metric>
+			<metric ref="_4d">
+				<int ref="_50">0</int>
+			</metric>
+			<metric ref="_4e">
+				<int ref="_50">0</int>
+			</metric>
+			<metric ref="_4f">
+				<int ref="_50">0</int>
+			</metric>
+		</levelValues>
+	</moduleMetricValues>
+</ns3:report>

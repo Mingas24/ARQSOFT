@@ -1,0 +1,81 @@
+<nz-layout class="app-layout">
+  <nz-sider class="menu-sidebar" nzCollapsible nzWidth="256px" nzBreakpoint="md" [(nzCollapsed)]="isCollapsed"
+    [nzTrigger]="null">
+    <div class="sidebar-logo">
+      <i class="fa-solid fa-burger" alt="logo" style='color:#FBAB7E'></i>
+      <h1>Gordeous Sandwich</h1>
+    </div>
+    <ul nz-menu nzTheme="dark" nzMode="inline" [nzInlineCollapsed]="isCollapsed">
+      <li nz-menu-item>
+        <i nz-icon nzType="home"></i>
+        <span>Home</span>
+        <a routerLink="/home-page"></a>
+      </li>
+      <li nz-submenu nzTitle="Master Data Rede" nzIcon="dashboard">
+        <ul>
+          <li nz-menu-item>
+            <a routerLink="/driver-type">Driver Type</a>
+          </li>
+          <li nz-menu-item>
+            <a routerLink="/vehicle-type">Vehicle Type</a>
+          </li>
+          <li nz-menu-item>
+            <a routerLink="/nodes">Node</a>
+          </li>
+          <li nz-menu-item>
+            <a routerLink="/line">Line</a>
+          </li>
+          <li nz-menu-item>
+            <a routerLink="/path">Path</a>
+          </li>
+          <li nz-menu-item>
+            <a routerLink="/import-file">Import File</a>
+          </li>
+        </ul>
+      </li>
+      <li nz-submenu nzTitle="Master Data Viagem " nzIcon="bug">
+        <ul>
+          <li nz-menu-item>
+            <a routerLink='/driver'>Driver</a>
+          </li>
+          <li nz-menu-item>
+            <a routerLink='/driver-duty'>Driver Duty</a>
+          </li>
+          <li nz-menu-item>
+            <a routerLink='/driver-duty-type'>Driver Duty Type</a>
+          </li>
+          <li nz-menu-item>
+            <a routerLink='/vehicle'>Vehicle</a>
+          </li>
+          <li nz-menu-item>
+            <a routerLink='/vehicle-duty'>Vehicle Duty</a>
+          </li>
+          <li nz-menu-item>
+            <a routerLink='/trip'>Trip</a>
+          </li>
+          <li nz-menu-item>
+            <a routerLink='/workblock'>Workblock</a>
+          </li>
+          <li nz-menu-item>
+            <a routerLink="/import-mdv">Import File</a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </nz-sider>
+  <nz-layout>
+    <nz-header>
+      <div class="app-header">
+        <span class="header-trigger" (click)="isCollapsed = !isCollapsed">
+          <i class="trigger" nz-icon [nzType]="isCollapsed ? 'menu-unfold' : 'menu-fold'"></i>
+        </span>
+        <h1></h1>
+      </div>
+    </nz-header>
+    <nz-content>
+      <div class="inner-content">
+        <router-outlet></router-outlet>
+      </div>
+    </nz-content>
+  </nz-layout>
+</nz-layout>

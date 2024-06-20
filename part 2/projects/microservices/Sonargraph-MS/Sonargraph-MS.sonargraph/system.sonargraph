@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<ns2:softwareSystem xmlns:ns2="http://www.hello2morrow.com/sonargraph/core" id="1a670c44dd14771f3ed55d78d3a6a98e" version="12.5.0.775">
+	<description></description>
+	<module xmlns:ns4="http://www.hello2morrow.com/sonargraph/languageprovider/csharp" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ns4:xsdCSharpProjectFileBasedModule" assemblyName="SandwichM" name="SandwichM" id="fbf6bab1f6fcb6304859f89991353e03" language="CSharp">
+		<description></description>
+		<dependsOn xsi:type="ns4:xsdCSharpVisualStudioProjectToAssemblyDependency" id="hotchocolate.aspnetcore" name="HotChocolate.AspNetCore" version="13.0.0-preview.92"></dependsOn>
+		<dependsOn xsi:type="ns4:xsdCSharpVisualStudioProjectToAssemblyDependency" id="hotchocolate.aspnetcore.playground" name="HotChocolate.AspNetCore.Playground" version="10.5.5"></dependsOn>
+		<dependsOn xsi:type="ns4:xsdCSharpVisualStudioProjectToAssemblyDependency" id="hotchocolate.data.entityframework" name="HotChocolate.Data.EntityFramework" version="13.0.0-preview.92"></dependsOn>
+		<dependsOn xsi:type="ns4:xsdCSharpVisualStudioProjectToAssemblyDependency" id="microsoft.aspnet.webapi.core" name="Microsoft.AspNet.WebApi.Core" version="5.2.9"></dependsOn>
+		<dependsOn xsi:type="ns4:xsdCSharpVisualStudioProjectToAssemblyDependency" id="microsoft.aspnetcore.openapi" name="Microsoft.AspNetCore.OpenApi" version="7.0.1"></dependsOn>
+		<dependsOn xsi:type="ns4:xsdCSharpVisualStudioProjectToAssemblyDependency" id="microsoft.entityframeworkcore" name="Microsoft.EntityFrameworkCore" version="7.0.1"></dependsOn>
+		<dependsOn xsi:type="ns4:xsdCSharpVisualStudioProjectToAssemblyDependency" id="microsoft.entityframeworkcore.tools" name="Microsoft.EntityFrameworkCore.Tools" version="7.0.1"></dependsOn>
+		<dependsOn xsi:type="ns4:xsdCSharpVisualStudioProjectToAssemblyDependency" id="mysql.data" name="MySql.Data" version="8.0.31"></dependsOn>
+		<dependsOn xsi:type="ns4:xsdCSharpVisualStudioProjectToAssemblyDependency" id="mysqlconnector" name="MySqlConnector" version="2.2.3"></dependsOn>
+		<dependsOn xsi:type="ns4:xsdCSharpVisualStudioProjectToAssemblyDependency" id="pomelo.entityframeworkcore.mysql" name="Pomelo.EntityFrameworkCore.MySql" version="7.0.0-silver.1"></dependsOn>
+		<dependsOn xsi:type="ns4:xsdCSharpVisualStudioProjectToAssemblyDependency" id="swashbuckle.aspnetcore" name="Swashbuckle.AspNetCore" version="6.4.0"></dependsOn>
+		<csharpProjectFile configurationName="Debug|AnyCPU" path="../Sandwich/SandwichM/SandwichM.csproj" solutionFilePath="../Sandwich/Sandwich.sln"></csharpProjectFile>
+		<moduleProfileForImport targetFrameworkIdentifier="" projectFileType="Vs2017" targetFrameworkVersion2="4.0">
+			<preprocessorSymbols></preprocessorSymbols>
+		</moduleProfileForImport>
+	</module>
+	<module xmlns:ns4="http://www.hello2morrow.com/sonargraph/languageprovider/java" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ns4:xsdJavaModule" name="UserManagement" id="056ceb2ce7d535e14fc4686be8a70fd3" language="Java">
+		<description>UserManagement</description>
+		<rootPath xsi:type="ns4:xsdSourceRootPath" name="../UserManagement/src/main/java"></rootPath>
+		<rootPath name="../UserManagement/target/classes"></rootPath>
+		<rootPath xsi:type="ns4:xsdSourceRootPath" name="../UserManagement/src/test/java"></rootPath>
+		<rootPath name="../UserManagement/target/test-classes"></rootPath>
+	</module>
+	<module xmlns:ns4="http://www.hello2morrow.com/sonargraph/languageprovider/java" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ns4:xsdJavaModule" name="Shop" id="2b01a2625cf91866ca03646da12e09cc" language="Java">
+		<description>Shop</description>
+		<rootPath xsi:type="ns4:xsdSourceRootPath" name="../Shop/src/main/java"></rootPath>
+		<rootPath name="../Shop/target/classes"></rootPath>
+		<rootPath xsi:type="ns4:xsdSourceRootPath" name="../Shop/src/test/java"></rootPath>
+		<rootPath name="../Shop/target/test-classes"></rootPath>
+	</module>
+	<module xmlns:ns4="http://www.hello2morrow.com/sonargraph/languageprovider/java" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ns4:xsdJavaModule" name="PromotionManagement" id="e48e72e1a23012cd9204ed223d61b28b" language="Java">
+		<description>PromotionManagement</description>
+		<rootPath xsi:type="ns4:xsdSourceRootPath" name="../PromotionManagement/src/main/java"></rootPath>
+		<rootPath xsi:type="ns4:xsdSourceRootPath" name="../PromotionManagement/src/test/java"></rootPath>
+	</module>
+	<systemExtension xmlns:ns4="http://www.hello2morrow.com/sonargraph/languageprovider/csharp" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ns4:xsdCSharpSystemConfiguration" language="CSharp">
+		<systemProfile targetFrameworkVersion2="4.0">
+			<profileRef profileId=".NETFramework_v4.8"></profileRef>
+			<directories></directories>
+			<preprocessorSymbols></preprocessorSymbols>
+		</systemProfile>
+	</systemExtension>
+</ns2:softwareSystem>

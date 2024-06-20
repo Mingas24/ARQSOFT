@@ -1,0 +1,46 @@
+schema {
+  query: Query
+  mutation: Mutation
+}
+
+input InputPromotionDTO {
+  sandwichId: ID
+  type: String
+  shopId: ID
+  percentage: Float
+  startDate: String
+  endDate: String
+}
+
+type Mutation {
+  addPromotion(inputPromotionDTO: InputPromotionDTO!): PromotionDTO
+  deletePromotionById(promotionId: Int!): Int
+  editPromotion(promotionId: Int!, inputPromotionDTO: InputPromotionDTO!): Int
+}
+
+type PromotionDTO {
+  promotionId: ID
+  type: String
+  sandwichId: ID
+  shopId: ID
+  percentage: Float
+  startDate: String
+  endDate: String
+}
+
+type Query {
+  listPromotions: [PromotionDTO]
+  getPromotionById(promotionId: Int!): PromotionDTO
+  getActiveLocalPromotionBySandwich(sandwichId: Int!, shopId: Int!): PromotionDTO
+  getActiveGlobalPromotionBySandwich(sandwichId: Int!): PromotionDTO
+}
+
+enum StatusCode {
+  OK
+  CREATED
+  UPDATED
+  DELETED
+  BAD_REQUEST
+  ACCESS_DENIED
+  NOT_FOUND
+}

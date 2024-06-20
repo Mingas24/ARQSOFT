@@ -1,0 +1,188 @@
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\appsettings.Development.json
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\appsettings.json
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\SandwichM.exe
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\SandwichM.deps.json
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\SandwichM.runtimeconfig.json
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\SandwichM.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\SandwichM.pdb
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\Google.Protobuf.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\GreenDonut.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Abstractions.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.AspNetCore.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.AspNetCore.Abstractions.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.AspNetCore.Playground.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Data.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Data.EntityFramework.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Execution.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Execution.Abstractions.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Fetching.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Language.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Language.SyntaxTree.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Language.Utf8.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Language.Visitors.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Language.Web.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Server.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Subscriptions.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Subscriptions.InMemory.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Transport.Sockets.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Types.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Types.CursorPagination.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Types.Mutations.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Types.OffsetPagination.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Types.Scalars.Upload.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Utilities.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Utilities.Introspection.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Validation.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\Humanizer.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\System.Web.Http.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\MySql.Data.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\ZstdNet.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\MySqlConnector.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\System.CodeDom.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\obj\Debug\net7.0\SandwichM.csproj.AssemblyReference.cache
+D:\Users\freq1\Documentos\Sandwich\SandwichM\obj\Debug\net7.0\SandwichM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\freq1\Documentos\Sandwich\SandwichM\obj\Debug\net7.0\SandwichM.AssemblyInfoInputs.cache
+D:\Users\freq1\Documentos\Sandwich\SandwichM\obj\Debug\net7.0\SandwichM.AssemblyInfo.cs
+D:\Users\freq1\Documentos\Sandwich\SandwichM\obj\Debug\net7.0\SandwichM.csproj.CoreCompileInputs.cache
+D:\Users\freq1\Documentos\Sandwich\SandwichM\obj\Debug\net7.0\SandwichM.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\freq1\Documentos\Sandwich\SandwichM\obj\Debug\net7.0\SandwichM.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\freq1\Documentos\Sandwich\SandwichM\obj\Debug\net7.0\staticwebassets\msbuild.SandwichM.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\freq1\Documentos\Sandwich\SandwichM\obj\Debug\net7.0\staticwebassets\msbuild.build.SandwichM.props
+D:\Users\freq1\Documentos\Sandwich\SandwichM\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SandwichM.props
+D:\Users\freq1\Documentos\Sandwich\SandwichM\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SandwichM.props
+D:\Users\freq1\Documentos\Sandwich\SandwichM\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Users\freq1\Documentos\Sandwich\SandwichM\obj\Debug\net7.0\staticwebassets.build.json
+D:\Users\freq1\Documentos\Sandwich\SandwichM\obj\Debug\net7.0\staticwebassets.development.json
+D:\Users\freq1\Documentos\Sandwich\SandwichM\obj\Debug\net7.0\scopedcss\bundle\SandwichM.styles.css
+D:\Users\freq1\Documentos\Sandwich\SandwichM\obj\Debug\net7.0\SandwichM.csproj.CopyComplete
+D:\Users\freq1\Documentos\Sandwich\SandwichM\obj\Debug\net7.0\SandwichM.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\obj\Debug\net7.0\refint\SandwichM.dll
+D:\Users\freq1\Documentos\Sandwich\SandwichM\obj\Debug\net7.0\SandwichM.pdb
+D:\Users\freq1\Documentos\Sandwich\SandwichM\obj\Debug\net7.0\SandwichM.genruntimeconfig.cache
+D:\Users\freq1\Documentos\Sandwich\SandwichM\obj\Debug\net7.0\ref\SandwichM.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\appsettings.Development.json
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\appsettings.json
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\SandwichM.exe
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\SandwichM.deps.json
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\SandwichM.runtimeconfig.json
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\SandwichM.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\SandwichM.pdb
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\Google.Protobuf.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\GreenDonut.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Abstractions.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.AspNetCore.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.AspNetCore.Abstractions.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.AspNetCore.Playground.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Data.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Data.EntityFramework.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Execution.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Execution.Abstractions.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Fetching.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Language.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Language.SyntaxTree.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Language.Utf8.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Language.Visitors.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Language.Web.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Server.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Subscriptions.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Subscriptions.InMemory.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Transport.Sockets.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Types.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Types.CursorPagination.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Types.Mutations.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Types.OffsetPagination.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Types.Scalars.Upload.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Utilities.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Utilities.Introspection.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\HotChocolate.Validation.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\Humanizer.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\System.Web.Http.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\MySql.Data.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\ZstdNet.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\MySqlConnector.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\System.CodeDom.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\obj\Debug\net7.0\SandwichM.csproj.AssemblyReference.cache
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\obj\Debug\net7.0\SandwichM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\obj\Debug\net7.0\SandwichM.AssemblyInfoInputs.cache
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\obj\Debug\net7.0\SandwichM.AssemblyInfo.cs
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\obj\Debug\net7.0\SandwichM.csproj.CoreCompileInputs.cache
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\obj\Debug\net7.0\SandwichM.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\obj\Debug\net7.0\SandwichM.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\obj\Debug\net7.0\staticwebassets\msbuild.SandwichM.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\obj\Debug\net7.0\staticwebassets\msbuild.build.SandwichM.props
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SandwichM.props
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SandwichM.props
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\obj\Debug\net7.0\staticwebassets.build.json
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\obj\Debug\net7.0\staticwebassets.development.json
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\obj\Debug\net7.0\scopedcss\bundle\SandwichM.styles.css
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\obj\Debug\net7.0\SandwichM.csproj.CopyComplete
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\obj\Debug\net7.0\SandwichM.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\obj\Debug\net7.0\refint\SandwichM.dll
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\obj\Debug\net7.0\SandwichM.pdb
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\obj\Debug\net7.0\SandwichM.genruntimeconfig.cache
+D:\Users\freq1\Documentos\arqsoft-22-23-503\part 2\projects\microservices\Sandwich\SandwichM\obj\Debug\net7.0\ref\SandwichM.dll

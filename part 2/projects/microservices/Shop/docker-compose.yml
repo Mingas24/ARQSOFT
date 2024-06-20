@@ -1,0 +1,29 @@
+version: "3"
+
+services:
+
+  shop-db:
+    container_name: shop-db
+    image: mysql
+    restart: on-failure
+    ports:
+      - "3307:3306"
+    environment:
+      MYSQL_ROOT_USER: root
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: shopdb
+
+  shop_management:
+    container_name: shop-management
+    image: shop:0.0.1-SNAPSHOT.jar
+    build: ./Shop
+    ports:
+      - "8084:8084"
+    depends_on:
+      - shop-db
+    environment:
+      - spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL5InnoDBDialect
+      - spring.datasource.url=jdbc:mysql://shop-db:3306/shopdb?autoreconnect=true&allowPublicKeyRetrieval=true&useSSL=false
+      - spring.datasource.username=root
+      - spring.datasource.password=root
+      - spring.jpa.hibernate.ddl-auto=update

@@ -1,0 +1,33 @@
+schema {
+  query: Query
+  mutation: Mutation
+}
+
+input InputOrderDTO {
+  orderDate: String!
+  shopId: Int!
+  costumerEmail: String!
+  sandwiches: [Map]!
+}
+
+input Map {
+  first: String
+  second: String
+}
+
+type Mutation {
+  addOrder(inputOrderDTO: InputOrderDTO!): OrderDTO
+  approveOrder(orderId: Float!): Int
+  cancelOrder(orderId: Float!): Int
+}
+
+type OrderDTO {
+  orderDate: String
+  shopId: Float
+  costumerEmail: String
+  status: String
+}
+
+type Query {
+  getOrderHistoryByCostumer(costumerEmail: String): [OrderDTO]
+}

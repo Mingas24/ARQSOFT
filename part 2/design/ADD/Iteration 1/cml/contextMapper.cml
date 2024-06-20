@@ -1,0 +1,58 @@
+ContextMap DDDSampleMap {
+    contains SandwichContext,ShopContext,OrderContext, 
+    UserAuthContext,PromotionContext, FrontendContext
+
+    PromotionContext [D]<-[U,OHS] UserAuthContext
+    PromotionContext [D]<-[U,OHS] SandwichContext
+
+    ShopContext [D]<-[U, OHS] UserAuthContext
+    ShopContext [D]<-[U] SandwichContext
+
+    OrderContext [D]<-[U]ShopContext
+    OrderContext [D]<-[U]SandwichContext
+    OrderContext [D]<-[U]UserAuthContext
+
+    FrontendContext [D]<-[U]UserAuthContext
+    FrontendContext [D]<-[U]SandwichContext
+    FrontendContext [D]<-[U]ShopContext
+    FrontendContext [D]<-[U]OrderContext
+    FrontendContext [D]<-[U]PromotionContext
+}
+
+BoundedContext SandwichContext {
+    Module sandwich {
+        Aggregate Sandwich {
+            Entity Sandwich {
+                aggregateRoot
+            }
+            ValueObject SandwichId {
+                long sandwichId
+            }
+            ValueObject SandwichDescription {
+                String sandwichDescription
+            }
+            ValueObject SandwichDesignation {
+                String sandwichDesignation
+            }
+            ValueObject SandwichPrice{
+                double sandwichPrice
+            }
+        }
+    }
+}
+
+BoundedContext ShopContext {
+}
+
+BoundedContext OrderContext {
+}
+
+BoundedContext UserAuthContext {
+}
+
+BoundedContext PromotionContext {
+}
+
+BoundedContext FrontendContext {
+}
+

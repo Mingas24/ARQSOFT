@@ -1,0 +1,29 @@
+type Query{
+    getOrderHistoryByCostumer(costumerEmail: String): [OrderDTO]
+
+}
+type Mutation{
+    addOrder(inputOrderDTO: InputOrderDTO!): OrderDTO
+    approveOrder(orderId: Float!): Int
+    cancelOrder(orderId: Float!): Int
+}
+
+input InputOrderDTO {
+    orderDate: String!
+    shopId: Int!
+    costumerEmail: String!
+    sandwiches: [Map]!
+}
+
+input Map {
+    first: String
+    second: String
+}
+
+type OrderDTO{
+    orderDate: String
+    shopId: Float
+    costumerEmail: String
+    status: String
+}
+

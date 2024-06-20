@@ -1,0 +1,76 @@
+schema {
+  query: Query
+  mutation: Mutation
+}
+
+input InputShopDTO {
+  designation: String
+  email: String
+  address: String
+  schedule: [Map]
+  promotionApplication: String
+}
+
+input Map {
+  first: String
+  second: String
+}
+
+type Mutation {
+  """    addShop(designation: String!, email: String!, address: String!, shopSchedule: [Map]!) : ShopDto!
+  """
+  addShop(inputShopDTO: InputShopDTO): ShopDTO!
+  deleteShop(shopId: Int!): Int
+  changePromotionApplication(shopId: Int!, applicationType: String!): Int
+  editShop(shopId: Int!, designation: String!, email: String!, address: String!, shopSchedule: [Map]!): Int
+}
+
+enum PromotionApplication {
+  Cumulative
+  MostFavourable
+}
+
+type Query {
+  getAllShops: [ShopDTO]
+  getShopById(shopId: Int!): ShopDTO
+}
+
+type Shop {
+  id: ID
+  designation: String
+  email: String
+  address: String
+  shopSchedule: [ShopSchedule]
+  promotionApplication: PromotionApplication
+}
+
+type ShopDTO {
+  shop_id: ID
+  designation: String
+  email: String
+  address: String
+  schedule: [ShopScheduleDTO]
+  promotionApplication: PromotionApplication
+}
+
+type ShopSchedule {
+  schedule_id: ID
+  day: String
+  date: String
+}
+
+type ShopScheduleDTO {
+  schedule_id: ID
+  day: String
+  date: String
+}
+
+enum StatusCode {
+  OK
+  CREATED
+  UPDATED
+  DELETED
+  BAD_REQUEST
+  ACCESS_DENIED
+  NOT_FOUND
+}
